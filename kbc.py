@@ -2,11 +2,14 @@
 
 questions = [
     ['Which god is also known as \"Gauri Nandan\" ?','Agni','Indra','Hanuman','Ganesha','None',4],
-    ['Which language was used to create fb ?','Python','French','JavaScript','Php','None',4],
-    ['Which language was used to create fb ?','Python','French','JavaScript','Php','None',4],
-    ['Which language was used to create fb ?','Python','French','JavaScript','Php','None',4],
-    ['Which language was used to create fb ?','Python','French','JavaScript','Php','None',4],
-    ['Which language was used to create fb ?','Python','French','JavaScript','Php','None',4]
+    ['What does not grow on tree according to a popular Hindi saying?','Money','Flowers','Leaves','Fruits','None',4],
+    ['Which city is known as Pink City in India?','Banglore','Maysore','Jaipur','Kochi','None',4],
+    ['Who wrote India\'s National Anthem?','Rabindranath Tagore','Lal Bahadur Shastri','Chetan Bhagat','RK Narayan','None',4],
+    ['When is the National Hindi Diwas celebrated?','13 September','14 September','14 July','15 August','None',4],
+    ['The largest Buddhist Monastery in India is located at','Sarnath, Uttar Pradesh','Tawang, Arunachal Pradesh','Dharmshala, Himachal Pradesh','Gangtok, Sikkim','None',4],
+    ['Which former Indian President died as a result of a road accident?','Rajendra Prasad','Faqruddin Ali Ahmed','Giani Zail Singh','R.Venkatraman','None',4],
+    ['Who was the first Indian woman to win a medal in the Olympics?','P.T. Usha','Kunjarani Devi','Bachendri Pal','Karnam Maleshwari','None',4],
+    ['Which Mughal Emperor was deported to Rangoon by the British?','Shah Jahan','Bahadur Shah II','Akbar Shah I','Bahadur Shah I','None',4],
 ]
 
 levels = [1000,2000,3000,5000,10000,40000,80000,160000,3200000]
